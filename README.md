@@ -1,6 +1,7 @@
 # Laravel Request Lifecycle
 ![Laravel Request Lifecycle](https://github.com/[dipankar77]/[
 Laravel-Architecture-Request-Lifecycle ]/blob/[master]/image.jpg?raw=true)
+![Laravel Request Lifecycle](laravel-request-lifecycle.png)
 
 ## Auto Loader
 
